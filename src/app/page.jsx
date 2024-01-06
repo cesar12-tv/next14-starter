@@ -12,8 +12,8 @@ function HomePage() {
           sed neque. Totam voluptate rerum nobis quo accusantium ex inventore
         </p>
         <div className={styles.buttons}>
-          <button className={styles.buttons}>Aprende más</button>
-          <button className={styles.buttons}>Contactanos</button>
+          <button className={styles.button}>Aprende más</button>
+          <button className={styles.button}>Contactanos</button>
         </div>
         <div className={styles.brands}>
           <Image
